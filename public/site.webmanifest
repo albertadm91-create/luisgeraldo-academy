@@ -1,0 +1,9 @@
+{
+  "name": "Luis Geraldo Campos",
+  "short_name": "Luis Geraldo",
+  "description": "Investigación aplicada, datos y publicación científica",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f3ec",
+  "theme_color": "#0f172a"
+}
